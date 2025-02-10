@@ -1,1 +1,1 @@
-This is a sudoku that I made for a school project. You can solve the sudoku by using the pen, or test different options with the colors. The game creates a new grid every time, so you can always play again even if you've already solved it once.
+This is a sudoku that I made for a school project. You can solve the sudoku by using the pen, or test different options with the colors. The game also creates a new grid every time, so you can always play again even if you've already solved it once.
